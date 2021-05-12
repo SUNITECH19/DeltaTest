@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">APPnea</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="list_header">APPnea</string>
+    <string name="list_subheader">Sleep Collection</string>
+    <string name="list_subheader1">Sleep Recording</string>
+
+
+
+</resources>
